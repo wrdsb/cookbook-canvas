@@ -1,2 +1,12 @@
-# cookbook-canvas
-Recipes for Canvas LMS
+Description
+===========
+
+Requirements
+============
+
+Attributes
+==========
+
+Usage
+=====
+
