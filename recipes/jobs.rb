@@ -1,6 +1,6 @@
 #
 # Cookbook Name:: canvas
-# Recipe:: db
+# Recipe:: jobs
 #
 # Copyright 2013, Waterloo Region District School Board
 #

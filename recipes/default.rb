@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: ubuntu-misc
+# Cookbook Name:: canvas
 # Recipe:: default
 #
 # Copyright 2013, Waterloo Region District School Board
